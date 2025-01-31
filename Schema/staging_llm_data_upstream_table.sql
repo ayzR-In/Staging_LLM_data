@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS llm_data_upstream (
+    first_name TEXT,
+	last_name TEXT,
+	title TEXT,
+	email TEXT,
+	work_history,
+	company,
+	employee_size,
+	industry,
+	company_state,
+	company_country,
+	keywords,
+	seo_discription,
+	technologies,
+	total_funding,
+	latest_funding,
+	latest_funding_amount,
+	short_description,
+	founded_year
+)
